@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\с#\recurs\recurs\bin\Debug\net5.0\recurs.exe
+C:\Users\User\Desktop\с#\recurs\recurs\bin\Debug\net5.0\recurs.deps.json
+C:\Users\User\Desktop\с#\recurs\recurs\bin\Debug\net5.0\recurs.runtimeconfig.json
+C:\Users\User\Desktop\с#\recurs\recurs\bin\Debug\net5.0\recurs.runtimeconfig.dev.json
+C:\Users\User\Desktop\с#\recurs\recurs\bin\Debug\net5.0\recurs.dll
+C:\Users\User\Desktop\с#\recurs\recurs\bin\Debug\net5.0\ref\recurs.dll
+C:\Users\User\Desktop\с#\recurs\recurs\bin\Debug\net5.0\recurs.pdb
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\recurs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\recurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\recurs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\recurs.AssemblyInfo.cs
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\recurs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\recurs.dll
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\ref\recurs.dll
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\recurs.pdb
+C:\Users\User\Desktop\с#\recurs\recurs\obj\Debug\net5.0\recurs.genruntimeconfig.cache

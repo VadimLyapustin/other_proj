@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZyhvXVX3W4oUYyzlpk+1juB7xePVqP8GAPVqQib2BBxHarqBU6ilViBzcV9im+bTY8ODc75qR+yTbLbs2dzKyw==",
+  "success": true,
+  "projectFilePath": "E:\\git\\tasks\\recurs\\recurs\\recurs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

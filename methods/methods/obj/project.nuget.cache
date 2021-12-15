@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cVeoc2DndCb1RLJbA5QiMACseg0Mr5HbDT5Yww+P859Ou3TDgTAvmI9AxePnk4ttwJAe/GiCQeewMpAk4L/7NQ==",
+  "success": true,
+  "projectFilePath": "E:\\sharp\\methods\\methods\\methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

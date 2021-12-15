@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\bin\Debug\net5.0\lessons - massive.exe
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\bin\Debug\net5.0\lessons - massive.deps.json
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\bin\Debug\net5.0\lessons - massive.runtimeconfig.json
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\bin\Debug\net5.0\lessons - massive.runtimeconfig.dev.json
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\bin\Debug\net5.0\lessons - massive.dll
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\bin\Debug\net5.0\ref\lessons - massive.dll
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\bin\Debug\net5.0\lessons - massive.pdb
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\lessons - massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\lessons - massive.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\lessons - massive.AssemblyInfo.cs
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\lessons - massive.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\lessons - massive.dll
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\ref\lessons - massive.dll
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\lessons - massive.pdb
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\lessons - massive.genruntimeconfig.cache
+C:\Users\User\Desktop\с#\lessons - massive\lessons - massive\obj\Debug\net5.0\lessons - massive.csproj.AssemblyReference.cache
